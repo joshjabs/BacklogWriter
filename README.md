@@ -2,7 +2,7 @@
 
 This is a beta Backlog writer AI application using the OpenAI API [quickstart tutorial](https://beta.openai.com/docs/quickstart). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
 
-![BacklogWriter UI Screenshot](public/ui.png)
+![BacklogWriter UI Screenshot](/public/ui.png)
 
 ## Setup
 
