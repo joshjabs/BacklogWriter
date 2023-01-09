@@ -4,7 +4,7 @@ This is a beta Backlog writer AI application using the OpenAI API [quickstart tu
 
 Entering an Epic/Project prompt (ie: "AWS Budgets for Client Azure Cloud Account") and clicking the "Generate Work Items" button will build a Backlog based on your customizable settings. This recommended structure can then be reviewed and edited as necessary before being imported into your Project Managment software of choice.
 
-![BacklogWriter UI Screenshot](ui.png)
+![BacklogWriter UI Screenshot](ui.PNG)
 
 It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
 
