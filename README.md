@@ -1,8 +1,12 @@
 # Backlog Writer BETA ( built on OpenAI API Quickstart Node.js Example )
 
-This is a beta Backlog writer AI application using the OpenAI API [quickstart tutorial](https://beta.openai.com/docs/quickstart). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
+This is a beta Backlog writer AI application using the OpenAI API [quickstart tutorial](https://beta.openai.com/docs/quickstart). It can be used to quickly generate detailed User Stories and Step-by-Step Tasks to accomplish a large Project or Epic. These Work Items can then be imported into an Azure DevOps Project Backlog using the Azure DevOps REST API.
+
+Entering an Epic/Project prompt (ie: "AWS Budgets for Client Azure Cloud Account") and clicking the "Generate Work Items" button will build a Backlog based on your customizable settings. This recommended structure can then be reviewed and edited as necessary before being imported into your Project Managment software of choice.
 
 ![BacklogWriter UI Screenshot](ui.png)
+
+It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
 
 ## Setup
 
